@@ -13,7 +13,7 @@ void mask(unsigned short num) {
  case 6 : P1OUT=0x7D; break;
  case 7 : P1OUT=0x07; break;
  case 8 : P1OUT=0x7F; break;
- case 9 : P1OUT=0x67; break;
+ case 9 : P1OUT=0x6F; break;
  } 
 }
 
